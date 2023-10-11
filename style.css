@@ -1,27 +1,29 @@
-body{
-    background: #CCCCCC
+body {
+
 }
 
-#banner{
-
-    width: 100%
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
 }
-h1{
-    text-align: center
-}
-
-p{
-    text-align:center;
+.itens {
+    font-style: italic;
 }
 
-#missão{
-    font-size: 20px
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
 }
 
-em strong{
-    color:red
+h2 {
+    text-align: center;
 }
-
-.itens{
-    font-style: italic
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
 }
