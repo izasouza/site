@@ -1,6 +1,3 @@
-body{
-    
-}
 
 #banner{
 
@@ -9,7 +6,10 @@ body{
 
 .principal{
     background: #CCCCCCCC
-    padding= 15px
+}
+
+.principal{
+    padding: 30px
 }
 
 .titulo-principal{
@@ -36,8 +36,11 @@ em strong{
 }
 .benefícios{
     background: #FFFFFF
-    padding= 20px
     
+}
+
+.benefícios{
+    padding: 20px
 }
 
 ul{
